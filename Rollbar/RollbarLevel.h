@@ -2,13 +2,13 @@
 
 #import <Foundation/Foundation.h>
 
-typedef enum {
+typedef NS_ENUM(NSInteger, RollbarLevel) {
     RollbarInfo,
     RollbarDebug,
     RollbarWarning,
     RollbarCritical,
     RollbarError
-} RollbarLevel;
+};
 
 NSString* RollbarStringFromLevel(RollbarLevel level);
 RollbarLevel RollbarLevelFromString(NSString *levelString);
