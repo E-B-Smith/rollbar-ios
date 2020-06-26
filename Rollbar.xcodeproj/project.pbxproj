@@ -22,7 +22,7 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		343AB4551CC9AAE600962943 /* RollbarFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 343AB4541CC9AAE600962943 /* RollbarFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		343AB4551CC9AAE600962943 /* RollbarFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 343AB4541CC9AAE600962943 /* RollbarFramework.h */; };
 		343AB45A1CC9AAF400962943 /* Rollbar.h in Headers */ = {isa = PBXBuildFile; fileRef = 96D2221218D8E40600933444 /* Rollbar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		343AB45B1CC9AAF400962943 /* Rollbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 96D2221418D8E40600933444 /* Rollbar.m */; };
 		343AB45C1CC9AAF400962943 /* RollbarNotifier.h in Headers */ = {isa = PBXBuildFile; fileRef = 96D2223318D8E51600933444 /* RollbarNotifier.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -561,7 +561,7 @@
 		B5EDEA821FCA679900830C78 /* RollbarLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = B5EDEA7F1FCA679900830C78 /* RollbarLevel.m */; };
 		B5EDEA831FCA679900830C78 /* RollbarLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = B5EDEA7F1FCA679900830C78 /* RollbarLevel.m */; };
 		B5EDEA841FCA679900830C78 /* RollbarLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = B5EDEA7F1FCA679900830C78 /* RollbarLevel.m */; };
-		B9CECF5224A68027000AA06E /* RollbarFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 343AB4541CC9AAE600962943 /* RollbarFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B9CECF5224A68027000AA06E /* RollbarFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 343AB4541CC9AAE600962943 /* RollbarFramework.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
