@@ -561,6 +561,7 @@
 		B5EDEA821FCA679900830C78 /* RollbarLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = B5EDEA7F1FCA679900830C78 /* RollbarLevel.m */; };
 		B5EDEA831FCA679900830C78 /* RollbarLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = B5EDEA7F1FCA679900830C78 /* RollbarLevel.m */; };
 		B5EDEA841FCA679900830C78 /* RollbarLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = B5EDEA7F1FCA679900830C78 /* RollbarLevel.m */; };
+		B9CECF5224A68027000AA06E /* RollbarFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 343AB4541CC9AAE600962943 /* RollbarFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -1547,6 +1548,7 @@
 				B54F1AB61FDA6CA600A6AB0C /* KSCrashReport.h in Headers */,
 				B54F1BB11FDA6CA700A6AB0C /* Fallthrough.h in Headers */,
 				B54F1AC61FDA6CA600A6AB0C /* KSCPU_Apple.h in Headers */,
+				B9CECF5224A68027000AA06E /* RollbarFramework.h in Headers */,
 				B54F1A5E1FDA6CA600A6AB0C /* KSCrashReportSinkConsole.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
